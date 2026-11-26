@@ -1,4 +1,4 @@
-# Anaglyph Converter
+# Anaglyph Converter - by Dr Hrishikesh Sarkar
 
 A simple Mac app that converts **top-and-bottom 3D surgical videos** (such as recordings from the Zeiss Kinevo 900 microscope) into **red-cyan anaglyph** videos. Anyone with inexpensive red-cyan 3D glasses can then watch them on a laptop or a normal projector.
 
